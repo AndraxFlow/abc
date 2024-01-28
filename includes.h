@@ -1,4 +1,3 @@
-
 #ifndef GLOBAL_GUARDIAN
 #define GLOBAL_GUARDIAN
 
@@ -7,4 +6,4 @@
 #include <string.h>
 #include <unistd.h>
 #include <ncurses.h>// may be not working
-#endif 
+#endif
